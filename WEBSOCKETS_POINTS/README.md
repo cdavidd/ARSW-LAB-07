@@ -140,3 +140,5 @@ var addPolygonToCanvas = function (points) {
 ```
 
 ### Pagina
+
+![](img/pagina.JPG)
